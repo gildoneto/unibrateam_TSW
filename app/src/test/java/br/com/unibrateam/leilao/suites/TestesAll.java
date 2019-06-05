@@ -9,5 +9,8 @@ import org.junit.runners.Suite;
         TestesUnitarios.class,
         TestesIntegracao.class
 })
+
+//Concluído, suite rodando 100%
+
 public class TestesAll {
 }

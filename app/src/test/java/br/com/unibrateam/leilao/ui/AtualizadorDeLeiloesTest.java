@@ -21,6 +21,8 @@ import static org.mockito.ArgumentMatchers.anyString;
 import static org.mockito.Mockito.doAnswer;
 import static org.mockito.Mockito.verify;
 
+//Concluído, rodando 100%
+
 @RunWith(MockitoJUnitRunner.class)
 public class AtualizadorDeLeiloesTest {
 

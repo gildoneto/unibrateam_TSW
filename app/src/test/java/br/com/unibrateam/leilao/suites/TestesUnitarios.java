@@ -7,7 +7,6 @@ import br.com.unibrateam.leilao.formatter.FormatadorDeMoedaTest;
 import br.com.unibrateam.leilao.model.LeilaoTest;
 import br.com.unibrateam.leilao.ui.AtualizadorDeLeiloesTest;
 import br.com.unibrateam.leilao.ui.AtualizadorDeUsuarioTest;
-import br.com.unibrateam.leilao.ui.recyclerview.adapter.ListaLeilaoAdapter;
 import br.com.unibrateam.leilao.ui.recyclerview.adapter.ListaLeilaoAdapterTest;
 
 @RunWith(Suite.class)
@@ -19,6 +18,9 @@ import br.com.unibrateam.leilao.ui.recyclerview.adapter.ListaLeilaoAdapterTest;
         ListaLeilaoAdapterTest.class
 
 })
+
+//Concluído, suite rodando 100%
+
 public class TestesUnitarios {
 
 

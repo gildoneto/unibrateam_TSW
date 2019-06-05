@@ -18,6 +18,8 @@ import static org.junit.Assert.*;
 import static org.mockito.Mockito.doNothing;
 import static org.mockito.Mockito.verify;
 
+//Concluído, rodando 100%
+
 @RunWith(MockitoJUnitRunner.class)
 public class ListaLeilaoAdapterTest {
 

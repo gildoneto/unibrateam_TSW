@@ -10,5 +10,7 @@ import br.com.unibrateam.leilao.api.EnviadorDeLanceTest;
         EnviadorDeLanceTest.class
 })
 
+//Concluído, suite rodando 100%
+
 public class TestesIntegracao {
 }

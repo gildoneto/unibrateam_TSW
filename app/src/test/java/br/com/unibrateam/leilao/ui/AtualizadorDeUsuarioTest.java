@@ -14,6 +14,8 @@ import br.com.unibrateam.leilao.ui.recyclerview.adapter.ListaUsuarioAdapter;
 import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;
 
+//Concluído, rodando 100%
+
 @RunWith(MockitoJUnitRunner.class)
 public class AtualizadorDeUsuarioTest {
 

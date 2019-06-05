@@ -17,6 +17,8 @@ import static org.hamcrest.number.IsCloseTo.closeTo;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertThat;
 
+//Concluído, rodando 100%
+
 public class LeilaoTest {
 
     private static final double DELTA = 0.0001;

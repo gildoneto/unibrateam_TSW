@@ -25,6 +25,8 @@ import static org.mockito.Mockito.doThrow;
 import static org.mockito.Mockito.never;
 import static org.mockito.Mockito.verify;
 
+//Concluído, rodando 100%
+
 @RunWith(MockitoJUnitRunner.class)
 public class EnviadorDeLanceTest {
 
